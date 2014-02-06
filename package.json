@@ -1,0 +1,10 @@
+{
+  "name": "whereabouts-syslog-tail",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "3.8.3",
+    "tail": "0.3.2",
+    "moment": "2.5.0",
+    "express": "3.4.7"
+  }
+}

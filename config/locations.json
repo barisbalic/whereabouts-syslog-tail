@@ -1,0 +1,13 @@
+{
+  "192.168.138.89": {"name": "Personal Finance (2nd Floor)", "id":"money"},
+  "192.168.138.80": {"name": "Personal Finance (2nd Floor)", "id":"money"},
+  "192.168.138.69": {"name": "Energy (1st Floor)", "id": "energy"},
+  "192.168.138.58": {"name": "Energy (1st Floor)", "id": "energy"},
+  "192.168.138.98": {"name": "Comms (3rd Floor)", "id": "comms"},
+  "192.168.138.92": {"name": "Comms (3rd Floor)", "id": "comms"},
+  "192.168.138.102": {"name": "Admin (4th Floor)", "id": "admin"},
+  "192.168.138.99": {"name": "Admin (4th Floor)", "id": "admin"},
+  "192.168.138.53": {"name": "Auditorium Back", "id": "auditorium"},
+  "192.168.138.51": {"name": "Auditorium Center", "id": "auditorium"},
+  "192.168.138.54": {"name": "Basement", "id": "basement"}
+}

@@ -1,0 +1,15 @@
+description 'whereabouts syslog tail'
+
+start on runlevel [2345]
+stop on runlevel [!2345]
+
+script
+    export HOME="/home/deploy"
+    export NODE_ENV="production"
+    export NODE="/usr/bin/node"
+    export APP_DIR="/var/www/whereabouts-syslog-tail/current"
+
+    exec su -s /bin/sh deploy -c '$NODE $APP_DIR/whereabouts.js >> /var/www/whereabouts-syslog-tail/shared/logs/whereabouts.log 2>&1'
+end script
+
+respawn
