@@ -4,7 +4,7 @@ This small application will listen to a syslog file and write a mixture of WPA(h
 
 There is also a very basic API written into this application for querying for one or more devices by MAC address or associated username.
 
-Any questions? Join the conversation at [![Gitter](https://badges.gitter.im/barisbalic/gish.png)](https://gitter.im/barisbalic/whereabouts-syslog-tail)
+Any questions? Join the conversation at [![Gitter](https://badges.gitter.im/barisbalic/whereabouts-syslog-tail.png)](https://gitter.im/barisbalic/whereabouts-syslog-tail)
 
 ## Notice!
 
